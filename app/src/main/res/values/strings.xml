@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebGridCarView</string>
+    <string name="activityBrowserTextView">Мобильный браузер</string>
+    <string name="exit">Exit</string>
+</resources>
